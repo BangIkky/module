@@ -1,5 +1,3 @@
-# Fbbrute
-Kumpulan Fbbrute
 
 
 $ pkg update -y
